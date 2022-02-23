@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact narrative of the bloody murder and robbery committed by Stephen Eaton, Sarah Swift, George Rhodes, and Henry Pritchard, upon the person of Mr. John Talbot, minister with the manner of their apprehension, arraignment and condemnation : also, a list of all the persons that are condemned, with the several offences to which they were executed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38935</idno>
+            <idno type="STC">Wing E3665</idno>
+            <idno type="STC">ESTC R22758</idno>
+            <idno type="EEBO-CITATION">12364788</idno>
+            <idno type="OCLC">ocm 12364788</idno>
+            <idno type="VID">60380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 914:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact narrative of the bloody murder and robbery committed by Stephen Eaton, Sarah Swift, George Rhodes, and Henry Pritchard, upon the person of Mr. John Talbot, minister with the manner of their apprehension, arraignment and condemnation : also, a list of all the persons that are condemned, with the several offences to which they were executed.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Taylor ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eaton, Stephen, d. 1669.</term>
+               <term>Pritchard, Henry, d. 1669.</term>
+               <term>Rhodes, George, d. 1669.</term>
+               <term>Swift, Sarah, d. 1669.</term>
+               <term>Talbot, John, d. 1669.</term>
+               <term>Trials (Murder) --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60380:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>An Exact NARRATIVE OF THE Bloody Murder, AND ROBBERY COMMITTED. By <hi>Stephen Eaton, Sarah Swift, George Rhodes,</hi> and <hi>Henry Prichard,</hi> upon the Perſon of Mr. <hi>JOHN TALBOT,</hi> Miniſter. WITH The manner of their Apprehenſion, Arraignment and Condem<g ref="char:EOLhyphen"/>nation. <hi>ALSO,</hi> A Liſt of all the other Perſons that are Con<g ref="char:EOLhyphen"/>demned, with the ſeveral Offences for which they were Executed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>July 14. 1669.</date>
+                           </dateline> 
+                           <signed>ROGER L'ESTRANGE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>R. Tayler,</hi> at the <hi>Crown</hi> in <hi>Little-Brittain.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_robbery">
+            <pb facs="tcp:60380:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="1" facs="tcp:60380:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>The Relation of the Robbery com<g ref="char:EOLhyphen"/>mitted by <hi>Stephen Eaton, Henry Pritchard,</hi> and <hi>Sarah Swift,</hi> &amp;c. upon the perſon of Mr. <hi>John Talbot,</hi> Miniſter.</head>
+            <p>
+               <seg rend="decorInit">M</seg>R. <hi>Talbot</hi> having been ſometime Mi<g ref="char:EOLhyphen"/>niſter of <hi>Lanſdon</hi> in <hi>Eſsex,</hi> upon ſome miſunderſtanding between him and ſome of his Pariſhioners, came to <hi>London,</hi> and took a Lod<g ref="char:EOLhyphen"/>ging in <hi>Biſhopſ-gate ſtreet,</hi> where he for ſome time continued in quiet<g ref="char:EOLhyphen"/>neſs, going about ſuch buſineſs as he had to do in <hi>London;</hi> till on <hi>Friday, July</hi> the 3d. paſſing from his Lodging and going down <hi>Cornhill,</hi> he perceived himſelf to have been dog'd from his Lodging; ha<g ref="char:EOLhyphen"/>ving this ſuſpicion, he goes out of his way, and ram<g ref="char:EOLhyphen"/>bles up and down the Ruines, ſtill perceiving him<g ref="char:EOLhyphen"/>ſelf to be follow'd; coming to <hi>Shoo-lane</hi> he there goes into a houſe to drink, where he had not long been, ere one of the perſons whom he perceived to
+<pb n="2" facs="tcp:60380:3"/>
+               <!-- PDF PAGE 57 -->dog him, came in alſo, which confirmed his ſuſpi<g ref="char:EOLhyphen"/>cion; having ſate there ſome time, the party that dog'd him went away, and in a little time after he goes for <hi>Grays-Inn:</hi> but he had not gone far ere he perceiv'd himſelf to be again dog'd by him that came into the houſe to drink; coming to a Coun<g ref="char:EOLhyphen"/>ſellors Chamber in <hi>Grays-Inn,</hi> he relates the ſtory to him, with the occaſion of his ſuſpicion; which was; that he had heard ſome Bayliffs were employ<g ref="char:EOLhyphen"/>ed to arreſt him, and had forty ſhillings given them to do it, and that he believed theſe were Bayliffs followers that had dogg'd him. He tarried there from three of the clock till ten at night, and then (being adviſed by his friend) he took his way o<g ref="char:EOLhyphen"/>ver the fields to go to his Lodging: He had not been long on his way, ere he had the ſame occaſion of ſuſpicion as he had before, being followed again; upon which he goes out of his way, but is ſtill beſet, ſome behind, ſome before, and on each ſide ſome. He altered his courſe ſeveral times, but could not get rid of his companions; yet ſtill continued his way to his Lodging. At the end of <hi>Old-ſtreet</hi> near the fields, he perceives them to draw nearer to him, upon which he quickens his pace, and makes what ſpeed he can to get cleer of them By this time he perceives them to make directly after him, and call to one another to fall on, and is at laſt ſet upon by three or four, from whom, after much ſtrugling he at laſt makes his eſcape to a Garden hear <hi>Annis-a-Cleer,</hi> where he hoped to find ſome aſſiſtance, but was deceived in his expectation, it being not near any houſe; and being cloſely purſued by thoſe that had before aſ<g ref="char:EOLhyphen"/>ſaulted him, he is again ſet upon, and being able to
+<pb n="3" facs="tcp:60380:3"/>
+               <!-- PDF PAGE 57 -->make little reſiſtance, (having ſpent himſelf in ſtrug<g ref="char:EOLhyphen"/>ling with them before, and running from them to make his eſcape) is eaſily overcome, whom when they had gotten down they ſtripped, and one of them taking his own knife out of his pocket, moſt inhumanely cut his throat and ſtabbed him, and then turned him on his face and left him for dead, after which they hide themſelves in the Garden, it being then about eleven of the clock when the fact was done.</p>
+            <p>A little after, happened a very great ſhower of Rain, which cauſed the Brick-makers to come to their works to cover their Bricks, to preſerve them from the injury of the weather; which having done they again return, (and now the great providence of God in this Rain and the diſcovery of the Murde<g ref="char:EOLhyphen"/>rers is very wonderful) for one of the Brick makers going along by the ſide of the Garden, and looking over, diſcovers Mr. <hi>Talbot</hi> lying naked, upon which he leaps into the Garden, takes him by the hand, and lifts it up, and finding no ſtrength in it; conclu<g ref="char:EOLhyphen"/>ded the man to be dead; calls to the reſt of his com<g ref="char:EOLhyphen"/>pany, who came to him, to whom he relates the accident, and immediately they went down to <hi>Shore<g ref="char:EOLhyphen"/>ditch,</hi> where they got two Conſtables, and other aſſiſtance, and return again to the place where Mr. <hi>Talbet</hi> lay, whom they immediately took up, and began to queſtion him about his condition, but he being deprived of his ſpeech, anſwered as well as he could by ſignes; Having taken up him that was thus mortally wounded, and provided to carry him away to <hi>Shoreditch</hi> in a Wheel-barrow, they lookt about the Garden to ſee if they could diſcover any
+<pb n="4" facs="tcp:60380:4"/>
+               <!-- PDF PAGE 58 -->thing elfe; one of them by chance eſpies Mr. <hi>Talbots</hi> doublet, and going to take it up, diſcovers another man (which was <hi>Stephen Eaten</hi>) the doublet lying on one ſide of him, and the bloudy ſhirt on the other, and then called, to his Company, telling them there was another man dead; upon which <hi>Eaton</hi> riſes, and proves himſelf alive; the Brick-maker demanded of him what he did there? he replyed, <hi>He was locked out of his Lodging, and that he came there to ſleep;</hi> en<g ref="char:EOLhyphen"/>deavouring to make his eſcape, but the Brick-ma<g ref="char:EOLhyphen"/>ker taking hold of him, told him he muſt tarry with them a while, the other made reſiſtance, till being knock'd down by the Brick maker, and finding it in vain to make any further attempt to get off, he ſubmitted.</p>
+            <p>The Conſtable carried him away, and ſecured him in the Stocks, till he had taken ſuch further care of Mr<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Talbot</hi> as was neceſſary; when he was a little revived, they bring <hi>Eaton</hi> to him, who preſently took pen and wrote, That <hi>that was the man that cut his throat.</hi>
+            </p>
+            <p>Some other perſons being to view the place where this fact was committed, obſerved a perſon to peep out of a Ditch and to lye down again, a Conſtable coming to him, and asking what he did there? he anſwered, <hi>No harm;</hi> The Conſtable told him, he muſt go along with them; to which he ſeemed at the firſt unwilling, but feeing no other remedy, a<g ref="char:EOLhyphen"/>long with them he goes to Mr. <hi>Talbot,</hi> who preſent<g ref="char:EOLhyphen"/>ly wrote, That <hi>that was one of them that ſet upon him;</hi> this was <hi>Henry Pritchard,</hi> by Trade a Taylor.</p>
+            <p>Near the place where <hi>Eaton</hi> was taken, <hi>Sarah Swift</hi> lay aſleep in an Out-houſe, who was appre<g ref="char:EOLhyphen"/>hended,
+<pb n="5" facs="tcp:60380:4"/>
+               <!-- PDF PAGE 58 -->and impeached by Mr. <hi>Talbot</hi> b<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>as was aſſiſtant in this Robbery, and cryed out  <hi>Kill the Rogue.</hi> She is noted for a notorious Thief, and hath already been burnt in the hand<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Theſe being all car<g ref="char:EOLhyphen"/>ried, before a Juſtice were ſent to <hi>Newgate.</hi>
+            </p>
+            <p>On Monday <hi>July</hi> the 15th <hi>George Rhodes</hi> an Ap<g ref="char:EOLhyphen"/>prentice to a Broker in <hi>Long-lane,</hi> came to ſee his acquaintance <hi>Sarah Swift</hi> at <hi>Newgate,</hi> where by his diſcourſe he was judged to be an aſſiſtant with the reſt in the Robbery, and notice being given to the Conſtable to apprehend him, he repairs to his Ma<g ref="char:EOLhyphen"/>ſters houſe to enquire for him, but not finding of him there at that time, he leaves word with his Ma<g ref="char:EOLhyphen"/>ſter to give him notice of him ſo ſoon as heiſaw him, which he accordingly did, and had him apprehended and carried before a Juſtice, by whom after his Exa<g ref="char:EOLhyphen"/>mination, (not being able to give any account where he was that night, and venting ſome ſuſpicious words, beſides Mr. <hi>Talbot</hi>'s teſtimony, that he was one of the perſons that dog'd him, though he could not say he was there when he was rob'd) was ſent to <hi>Newgate</hi> to the reſt of his Complices.</p>
+            <p>Mr. <hi>Talbot</hi> being carefully looked to by his Phyſi<g ref="char:EOLhyphen"/>cians, was judged to be in a hopeful way of recove<g ref="char:EOLhyphen"/>ry, and was ready to ſatisfie all queſtions that were put to him, by writing his anſwer; He did conſtant<g ref="char:EOLhyphen"/>ly affirm, that he never ſaw <hi>Sarah Swift</hi> before in his life, to his knowledge, (though reports have been otherwiſe) and that he had not any acquaintance with any of the reſt of them, nor drank with any of them in his life. He could not deviſe what ſhould make them to dog him ſo long and ſo far as they did, and to deal ſo inhumanely with him; he was rob'd
+<pb n="6" facs="tcp:60380:5"/>
+               <!-- PDF PAGE 59 -->of two and twenty ſhillings, and two gold Rings.</p>
+            <p>On Sunday he had his ſpeech, and talked much, none doubting of his recovery; but it laſted not long, for by reaſon of his ſtraining to anſwer all que<g ref="char:EOLhyphen"/>ſtions propounded to him, though enjoyned the contrary, he ſo weakned himſelf, that the uſe of means was rendred ineffectual, and on Monday <hi>Ju<g ref="char:EOLhyphen"/>ly</hi> the 12th gave up the ghoſt. Thus you have the Relation of a Murder and Robbery committed by 6 men and a woman, who had all of them time and op<g ref="char:EOLhyphen"/>portunity enough to eſcape; but the juſt hand of God would not ſuffer them to go unpuniſhed, for ſo barbarous an Act committed againſt the Law of God, the Laws of the Land, and the light of Na<g ref="char:EOLhyphen"/>ture, but i<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted them that they might be brought to condigne puniſhment.</p>
+            <p>
+               <hi>Eaton</hi> being brought to the <hi>Seſsions,</hi> pleaded <hi>Not Guilty,</hi> but the proof was ſo clear againſt him, the circumſtances of his being taken, the bloudy knife on one ſide of him and the doublet on the other, ſome bloudy. Tape ſound in his Breeches, and Mr. <hi>Talbots</hi> affirmation under his hand, that he cut his throat, and rob'd him, the caſe was ſo clear that he was ſoon found guilty of the Endictment. <hi>Sa<g ref="char:EOLhyphen"/>rah Swift</hi> and <hi>Henry Prichard</hi> were both found guil<g ref="char:EOLhyphen"/>ty of the ſame Robbery. <hi>George Rhodes</hi> pleaded <hi>Not Guilty,</hi> but having nothing to juſtifie himſelf, and able to give no account where he was that night, and ſaying, <hi>If he died five more ſhould die with him,</hi> beſides Mr. <hi>Talbot</hi>'s teſtimony under his hand, That <hi>he was one of the perſons that dog'd him</hi> was found <hi>Guilty,</hi> and all of them received ſentence to be exe<g ref="char:EOLhyphen"/>cuted.</p>
+            <list>
+               <pb n="7" facs="tcp:60380:5"/>
+               <!-- PDF PAGE 59 -->
+               <head>A Liſt of the other Priſoners that were Condemned to dye, and their ſeveral Offences.</head>
+               <item>
+                  <hi>Thomas Reeves,</hi> was condemned for ſtealing a Horſe, and Executed.</item>
+               <item>
+                  <hi>John Goodwin,</hi> was condemned for ſtealing 15. l. in mony, and Executed.</item>
+               <item>
+                  <hi>Grace Hawkins,</hi> condemned for felony, and Exe<g ref="char:EOLhyphen"/>cuted.</item>
+               <item>
+                  <hi>Anne Hall,</hi> condemned for murthering of her Infant, and Executed.</item>
+               <item>
+                  <hi>Elizabeth Garret,</hi> condemned for murthering of her Child, and Executed.</item>
+               <item>
+                  <hi>Edward Oram,</hi> and <hi>Robert Hack,</hi> Clippers; both condemned, but Reprieved.</item>
+               <item>
+                  <hi>Edward Maddox,</hi> High-way man, condemned but Reprieved.</item>
+               <item>
+                  <hi>John Philips,</hi> High-way man, condemned and Executed.</item>
+               <item>
+                  <hi>Cuthbert Allen,</hi> condemned for breaking the houſe of one <hi>George Page,</hi> Executed.</item>
+               <item>
+                  <hi>Francis Baker,</hi> for ſtealing a <hi>Farendine Gown</hi> and other things, condemned and Executed.</item>
+               <item>
+                  <hi>Toby Wright,</hi> condemned for ſtealing a Barbers In<g ref="char:EOLhyphen"/>ſtruments, Reprieved.</item>
+               <item>
+                  <hi>Edward Mace,</hi> upon a former Judgement, again Reprieved.</item>
+            </list>
+            <div type="part">
+               <pb n="8" facs="tcp:60380:6"/>
+               <!-- PDF PAGE 60 -->
+               <opener>
+                  <dateline>
+                     <date>Wedneſday, July 14.</date>
+                  </dateline>
+               </opener>
+               <p>The Priſoners were conveyed in ſeveral Carts from <hi>Newgate</hi> to the place of Execution. All the way is they paſſed, the ſtreets were thronged with Spectators, and at <hi>Tyburn</hi> they were in ſuch num<g ref="char:EOLhyphen"/>bers that the Carts could not get up to the place of Execution, the Priſoners being led thither on foot, where being placed in Carts, Mr. <hi>Partridge</hi> a Mini<g ref="char:EOLhyphen"/>ſter made an Exhortation to them, and others prayed with them. Several of them were very pe<g ref="char:EOLhyphen"/>nitent, confeſſing their ſins, and begged of the Lord for pardon. And ſome ſeemed not at all concerned, though they had not many minutes to live.</p>
+               <p>
+                  <hi>Stephen Eaton</hi> prayed himſelf, to this purpoſe; That he had been a great ſinner, and that he had greatly offended the Lord, by miſpending his time, breaking of Sabbaths and keeping ill Company; That it was not long ere he ſhould appear before the Lord, either on the Right hand or on the Left, with a <hi>Go ye Curſed,</hi> or <hi>Come ye Bleſſed;</hi> humbly begging of the Lord to pardon all his ſins, to waſh them away in the blood of his dear Son; That he would give him an aſſurance of his Love, and Par<g ref="char:EOLhyphen"/>don of his ſins, before he ſailed into the Ocean of Eternity.</p>
+               <p>
+                  <hi>George Rhodes</hi> ſeemed to be very penitent, weep<g ref="char:EOLhyphen"/>ing bitterly, but ſaid little.</p>
+               <p>Two of the women were very penitent, and were much wrought upon while they were in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> and brought to a ſenſe of their ſins by ſome
+<pb n="9" facs="tcp:60380:6"/>
+                  <!-- PDF PAGE 60 -->Miniſters which came to them in Priſon, and died very cheerfully with an aſſured hope of their ſal<g ref="char:EOLhyphen"/>vation.</p>
+               <p>After the Prayers were ended, they being all tied together, the Cart was drawn from them, after which <hi>Philips</hi> ſtrugled very much, but the reſt were all of them ſoon dead. And thus have you an account of ſeveral perſons condemned for ſeveral offences, and come to an untimely end, to the great grief of all their friends and Relati<g ref="char:EOLhyphen"/>ons; which might have been prevented, if they had walked in the fear of God, and kept themſelves to honeſt employments.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
